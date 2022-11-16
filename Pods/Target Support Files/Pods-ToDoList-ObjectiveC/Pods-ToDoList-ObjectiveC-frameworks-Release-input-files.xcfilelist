@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-ToDoList-ObjectiveC/Pods-ToDoList-ObjectiveC-frameworks.sh
+${BUILT_PRODUCTS_DIR}/AFNetworking/AFNetworking.framework
+${BUILT_PRODUCTS_DIR}/Cloudinary/Cloudinary.framework

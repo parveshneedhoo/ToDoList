@@ -1,0 +1,36 @@
+PODS:
+  - AFNetworking (4.0.1):
+    - AFNetworking/NSURLSession (= 4.0.1)
+    - AFNetworking/Reachability (= 4.0.1)
+    - AFNetworking/Security (= 4.0.1)
+    - AFNetworking/Serialization (= 4.0.1)
+    - AFNetworking/UIKit (= 4.0.1)
+  - AFNetworking/NSURLSession (4.0.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (4.0.1)
+  - AFNetworking/Security (4.0.1)
+  - AFNetworking/Serialization (4.0.1)
+  - AFNetworking/UIKit (4.0.1):
+    - AFNetworking/NSURLSession
+  - Cloudinary (3.3.0):
+    - Cloudinary/ios (= 3.3.0)
+  - Cloudinary/ios (3.3.0)
+
+DEPENDENCIES:
+  - AFNetworking (~> 4.0)
+  - Cloudinary (~> 3.0)
+
+SPEC REPOS:
+  trunk:
+    - AFNetworking
+    - Cloudinary
+
+SPEC CHECKSUMS:
+  AFNetworking: 7864c38297c79aaca1500c33288e429c3451fdce
+  Cloudinary: c6a6a66b8b9aac18dce2ad54eb0243ea5e5119b8
+
+PODFILE CHECKSUM: e3b14d7c067429518f644c7be1ca34bb919ccceb
+
+COCOAPODS: 1.11.3

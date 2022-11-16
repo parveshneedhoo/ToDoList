@@ -1,0 +1,6 @@
+framework module Pods_ToDoList_ObjectiveCTests {
+  umbrella header "Pods-ToDoList-ObjectiveCTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
